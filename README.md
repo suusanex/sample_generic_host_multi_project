@@ -1,0 +1,2 @@
+# sample_generic_host_multi_project
+GenericHostをベースにすることで、複数種類のプロジェクト間のコード互換が取りやすくなる事の実験
